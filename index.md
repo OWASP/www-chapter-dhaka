@@ -7,12 +7,10 @@ level: 0
 
 region: Asia
 
-auto-migrated: 1
-
 ---
 
 
-## *Welcome to OWASP Dhaka Chapter*
+## Welcome to OWASP Dhaka Chapter
 
 
 ## Participation
