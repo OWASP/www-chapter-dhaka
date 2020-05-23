@@ -25,8 +25,8 @@ tags: dhk
 </tr>
 <tr class="even">
 <td><p>002</p></td>
-<td><p>January 10, 2020</p></td>
-<td><p>Banani, Dhaka</p></td>
+<td><p>January 18, 2020</p></td>
+<td><p>Zafraan Restaurant, House#28, Road#10, Block#D, Banani, Dhaka</p></td>
 <td><p>5:00 PM</p></td>
 </tr>
 <tr class="odd">
@@ -37,8 +37,8 @@ tags: dhk
 </tr>
 <tr class="even">
 <td><p>001</p></td>
-<td><p>August 03, 2010</p></td>
-<td><p>ECADEMY, Gulshan, Dhaka</p></td>
+<td><p>August 03, 2019</p></td>
+<td><p>ECADEMY, 47, Gulshan-1, Dhaka</p></td>
 <td><p>5:00 PM</p></td>
 </tr>
 
