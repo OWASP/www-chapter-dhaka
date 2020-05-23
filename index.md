@@ -11,7 +11,7 @@ region: Asia
 
 
 ## OWASP Dhaka
-Welcome to Dhaka Chapter Homepage. The Chapter Leader id [Md Jahangir Alam](mailto:jahangir.alam@owasp.org).
+Welcome to Dhaka Chapter Homepage. The Chapter Leader is [Md Jahangir Alam](mailto:jahangir.alam@owasp.org).
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
