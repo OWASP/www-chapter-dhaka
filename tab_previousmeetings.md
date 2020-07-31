@@ -1,5 +1,6 @@
 ---
-title: Past Events
+title: Previousmeetings
+displaytext: Past Events
 tab: true
 order: 1
 tags: dhk
