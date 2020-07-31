@@ -6,6 +6,9 @@ tags: dhk
 level: 0
 
 region: Asia
+meetup-group: OWASP-Dhaka-Chapter
+country: Bangladesh
+postal-code: 
 
 ---
 
