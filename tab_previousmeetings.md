@@ -25,6 +25,18 @@ tags: dhk
 <td></td>
 </tr>
 <tr class="even">
+<td><p>004</p></td>
+<td><p>August 06, 2021</p></td>
+<td><p>Monthly Meetup (Online)</p></td>
+<td><p>8:00 PM</p></td>
+</tr>
+  <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>003</p></td>
 <td><p>January 22, 2021</p></td>
 <td><p>Online Virtual Meeting</p></td>
