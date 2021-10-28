@@ -3,7 +3,7 @@ title: Example
 layout:  null
 tab: true
 order: 3
-tags: example-tag
+tags: Past Meetings
 ---
 
 ## Example
