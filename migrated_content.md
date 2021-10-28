@@ -4,9 +4,7 @@ layout: col-sidebar
 title: OWASP Dhaka
 tags: example-tag
 level: 0
-
 region: Middle East
-
 
 ---
 ## Local News
