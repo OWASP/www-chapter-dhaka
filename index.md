@@ -27,6 +27,8 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 ## Next Meeting/Event(s)
 
+{% include chapter_events.html group=page.meetup-group %}
+
 - Everyone is welcome to join us at our chapter meetings.
 - Next Meeting Location and Date: **OWASP Dhaka Chapter Monthly Meetup - 2nd Friday of Every Month, 8:00 PM (Bangladesh Standard Time)**.
 
