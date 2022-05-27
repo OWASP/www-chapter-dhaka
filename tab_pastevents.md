@@ -12,6 +12,8 @@ tags: dhk
 
 | No | Date | Venue | Time | 
 | :-: | :-: | :-- | :-: |
+| 006 | April 01, 2022 | Monthly Meetup (Online) | 8:00 PM |
+| 005 | September 24, 2021 | Monthly Meetup (Online) | 8:00 PM |
 | 004 | August 06, 2021 | Monthly Meetup (Online) | 8:00 PM |
 | 003 | January 22, 2021 | Online Virtual Meeting | 7:00 PM |
 | 002 | January 18, 2020 | Zafraan Restaurant, House#28, Road#10, Block#D, Banani, Dhaka | 5:00 PM |
