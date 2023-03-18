@@ -12,7 +12,7 @@ tags: dhk
 
 | No | Date | Venue | Time | 
 | :-: | :-: | :-- | :-: |
-| 008 | March 16, 2022 | Monthly Meetup (Online) | 9:00 PM |
+| 008 | March 16, 2023 | Monthly Meetup (Online) | 9:00 PM |
 | 008 | December 10, 2022 | Monthly Meetup (Online) | 7:00 PM |
 | 007 | August 12, 2022 | Monthly Meetup (Online) | 8:00 PM |
 | 006 | April 01, 2022 | Monthly Meetup (Online) | 8:00 PM |
