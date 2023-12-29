@@ -12,6 +12,7 @@ tags: dhk
 
 | No | Date | Venue | Time | 
 | :-: | :-: | :-- | :-: |
+| 11 | December 29, 2023 | Monthly Meetup (Online) | 8:30 PM |
 | 10 | October 28, 2023 | Monthly Meetup (Online) | 9:00 PM |
 | 09 | March 16, 2023 | Monthly Meetup (Online) | 9:00 PM |
 | 08 | December 10, 2022 | Monthly Meetup (Online) | 7:00 PM |
