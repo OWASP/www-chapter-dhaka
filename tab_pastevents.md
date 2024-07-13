@@ -12,6 +12,9 @@ tags: dhk
 
 | No | Date | Venue | Time | 
 | :-: | :-: | :-- | :-: |
+| 14 | July 13, 2024 | Monthly Meetup (Online) | 8:00 PM |
+| 13 | June 01, 2024 | Monthly Meetup (Onsite) | 4:00 PM |
+| 12 | March 09, 2024 | Monthly Meetup (Onsite) | 5:30 PM |
 | 11 | December 29, 2023 | Monthly Meetup (Online) | 8:30 PM |
 | 10 | October 28, 2023 | Monthly Meetup (Online) | 9:00 PM |
 | 09 | March 16, 2023 | Monthly Meetup (Online) | 9:00 PM |
