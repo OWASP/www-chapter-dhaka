@@ -12,6 +12,8 @@ tags: dhk
 
 | No | Date | Venue | Time | 
 | :-: | :-: | :-- | :-: |
+| 16 | March 29, 2025 | Monthly Meetup (Onsite) | 5:00 PM |
+| 15 | December 27, 2024 | Monthly Meetup (Online) | 7:00 PM |
 | 14 | July 13, 2024 | Monthly Meetup (Online) | 8:00 PM |
 | 13 | June 01, 2024 | Monthly Meetup (Onsite) | 4:00 PM |
 | 12 | March 09, 2024 | Monthly Meetup (Onsite) | 5:30 PM |
@@ -26,3 +28,4 @@ tags: dhk
 | 03 | January 22, 2021 | Online Virtual Meeting | 7:00 PM |
 | 02 | January 18, 2020 | Zafraan Restaurant, House#28, Road#10, Block#D, Banani, Dhaka | 5:00 PM |
 | 01 | August 03, 2019 | ECADEMY, 47, Gulshan-1, Dhaka | 5:00 PM |
+
