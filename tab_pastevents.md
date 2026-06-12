@@ -12,6 +12,10 @@ tags: dhk
 
 | No | Date | Venue | Time | 
 | :-: | :-: | :-- | :-: |
+| 22 | May 22, 2026 | Monthly Meetup (Online) | 8:00 PM |
+| 21 | February 20, 2026 | Monthly Meetup (Online) | 7:30 PM |
+| 20 | December 19, 2025 | Monthly Meetup (Online) | 7:00 PM |
+| 19 | October 24, 2025 | Monthly Meetup (Online) | 8:00 PM |
 | 18 | August 16, 2025 | Monthly Meetup (Online) | 7:30 PM |
 | 17 | May 24, 2025 | Monthly Meetup (Onsite) | 7:00 PM |
 | 16 | March 29, 2025 | Monthly Meetup (Onsite) | 5:00 PM |
