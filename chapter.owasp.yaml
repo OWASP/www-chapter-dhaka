@@ -1,0 +1,26 @@
+leaders:
+  - name: Md Jahangir Alam
+    email: jahangir.alam@owasp.org
+    github: jahangiralamdhaka
+  - name: Fahima Khanam
+    email: fahima.khanam@owasp.org
+  - name: S M Mizanur Rahman
+    email: mizanur.rahman@owasp.org
+location:
+  country: Bangladesh
+  country_code: BD
+  region: Dhaka Division
+  city: Dhaka
+  latitude: 23.7644025
+  longitude: 90.389015
+meetup_group: OWASP-Dhaka-Chapter
+name: OWASP Dhaka
+repositories:
+  - name: www-chapter-dhaka
+    url: https://github.com/OWASP/www-chapter-dhaka
+    description: OWASP Foundation Web Repository
+tags:
+  - dhk
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-dhaka
